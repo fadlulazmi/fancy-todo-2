@@ -1,4 +1,4 @@
-const baseURL = 'http://localhost:3000'
+const baseURL = 'http://34.66.179.194'
 let userNotifications = []
 
 async function signin(){
